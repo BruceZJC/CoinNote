@@ -6,15 +6,18 @@
       <change afterPath="$PROJECT_DIR$/src/chart.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/gui/frame/CoinNoteFrame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/gui/listener/SpendPanelListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/gui/panel/SpendPanel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/gui/utility/CenterPanel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/gui/utility/ChartUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/utility/CircleProgressBar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/gui/utility/ColorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/utility/GUIUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coinnote.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coinnote.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/panel/MainPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/panel/MainPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/utility/CircleProgressBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/utility/CircleProgressBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/utility/GUIUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/utility/GUIUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/utility/CircleProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/utility/CircleProgressBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/utility/GUIUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/utility/GUIUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587753751482</updated>
-      <workItem from="1587753756710" duration="11598000" />
+      <workItem from="1587753756710" duration="11896000" />
     </task>
     <servers />
   </component>
@@ -139,22 +142,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="473" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587775879075" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1587776167643">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1587776552810">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587776167643" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1587776167643">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587776552810" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1587776552810">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587776167643" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1587776167643">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587776552810" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1587776552810">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587776167643" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1587776167643">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587776552810" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1587776552810">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587776167643" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587776552810" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1587775880970">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
