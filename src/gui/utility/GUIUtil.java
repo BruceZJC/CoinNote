@@ -1,16 +1,8 @@
 package gui.utility;
 
-import java.awt.Color;
-import java.awt.Dimension;
+import javax.swing.*;
+import java.awt.*;
 import java.io.File;
-
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JComponent;
-import javax.swing.JFrame;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
-import javax.swing.JTextField;
 
 public class GUIUtil {
     private static String imageFolder = "C:\\Software S\\Github\\coinnote\\img";
@@ -37,7 +29,6 @@ public class GUIUtil {
      * @param strechRate 拉伸比例1表示满屏幕
      */
     public static void showPanel(JPanel p,double strechRate) {
-        GUIUtil.useLNF();
         JFrame f = new JFrame();
         f.setSize(500, 500);
         f.setLocationRelativeTo(null);
