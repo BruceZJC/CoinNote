@@ -2,21 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2db1821-5282-41ee-bd5e-948c0e4adfc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chart.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/frame/CoinNoteFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/listener/SpendPanelListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/SpendPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/utility/CenterPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/utility/ChartUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/utility/ColorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/model/CategoryComboBoxModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/model/CategoryTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/panel/BackupPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/panel/CategoryPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/panel/ConfigPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/panel/RecordPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/panel/RecoverPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/panel/ReportPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coinnote.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coinnote.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/panel/MainPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/panel/MainPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/utility/CircleProgressBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/utility/CircleProgressBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/backup.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/backup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/category1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/category2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/config.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/record.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/record.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/report.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/report.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/restore.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/restore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/frame/CoinNoteFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/panel/SpendPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/panel/SpendPanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/coinnote/gui/utility/GUIUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coinnote/gui/utility/GUIUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/utility/CircleProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/utility/CircleProgressBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/frame/CoinNoteFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/frame/CoinNoteFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/panel/SpendPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/panel/SpendPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gui/utility/GUIUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/utility/GUIUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +59,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chart.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/swingx-core-1.6.2 (1).jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,26 +75,26 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Software S\Github\coinnote\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Software S\Github\coinnote\src" />
       <recent name="C:\Software S\Github\coinnote\src\utility" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Software S\Github\coinnote\src" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.MainPanel">
-    <configuration name="CenterPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utility.CenterPanel" />
+  <component name="RunManager" selected="Application.MainFrame">
+    <configuration name="CategoryPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.panel.CategoryPanel" />
       <module name="coinnote" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utility.*" />
+          <option name="PATTERN" value="gui.panel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,9 +102,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HutuMainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.frame.HutuMainFrame" />
+    <configuration name="ConfigPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.panel.ConfigPanel" />
       <module name="coinnote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.panel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.frame.MainFrame" />
+      <module name="coinnote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,11 +141,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReportPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.panel.ReportPanel" />
+      <module name="coinnote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.panel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainFrame" />
         <item itemvalue="Application.MainPanel" />
-        <item itemvalue="Application.CenterPanel" />
-        <item itemvalue="Application.HutuMainFrame" />
+        <item itemvalue="Application.ConfigPanel" />
+        <item itemvalue="Application.ReportPanel" />
+        <item itemvalue="Application.CategoryPanel" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +175,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587753751482</updated>
       <workItem from="1587753756710" duration="11896000" />
+      <workItem from="1587777924569" duration="10984000" />
+      <workItem from="1588533618385" duration="4581000" />
     </task>
     <servers />
   </component>
@@ -138,34 +188,34 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1587760544428" />
-    <state x="473" y="158" key="FileChooserDialogImpl" timestamp="1587775879075">
+    <state x="473" y="158" key="FileChooserDialogImpl" timestamp="1588537959561">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="473" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587775879075" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1587776552810">
+    <state x="473" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1588537959561" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1588545636409">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587776552810" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1587776552810">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588545636409" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1588545636409">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587776552810" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1587776552810">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588545636409" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1588545636409">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587776552810" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1587776552810">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588545636409" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1588545636409">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587776552810" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1587775880970">
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588545636409" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1588537972543">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1587775880970" />
-    <state x="478" y="136" width="579" height="562" key="find.popup" timestamp="1587760184708">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588537972543" />
+    <state x="478" y="136" width="579" height="562" key="find.popup" timestamp="1587778661233">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="478" y="136" width="579" height="562" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1587760184708" />
+    <state x="478" y="136" width="579" height="562" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1587778661233" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1587760199932">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

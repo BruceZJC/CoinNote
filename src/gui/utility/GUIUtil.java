@@ -5,10 +5,8 @@ import java.awt.*;
 import java.io.File;
 
 public class GUIUtil {
-    private static String imageFolder = "C:\\Software S\\Github\\coinnote\\img";
-
     public static void setImageIcon(JButton b, String fileName, String tip) {
-        ImageIcon i = new ImageIcon(new File(imageFolder, fileName).getAbsolutePath());
+        ImageIcon i = new ImageIcon(new File("C:\\Software S\\Github\\coinnote\\src\\img", fileName).getAbsolutePath());
         b.setIcon(i);
         b.setPreferredSize(new Dimension(61, 81));
         b.setToolTipText(tip);

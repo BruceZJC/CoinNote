@@ -3,20 +3,16 @@ package gui.frame;
 import gui.listener.SpendPanelListener;
 import gui.panel.SpendPanel;
 
-import java.awt.BorderLayout;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
- 
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.JToolBar;
  
 class CoinNoteFrame {
  
     public static void main(String[] args) {
         JFrame f = new JFrame();
-        f.setSize(550, 450);
+        f.setSize(600, 450);
         f.setTitle("CoinNote");
         f.setLocationRelativeTo(null);
         f.setResizable(false);
