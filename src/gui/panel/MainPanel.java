@@ -1,5 +1,6 @@
 package gui.panel;
 
+import gui.listener.ToolBarListener;
 import gui.utility.CenterPanel;
 import gui.utility.GUIUtil;
 
@@ -7,7 +8,6 @@ import javax.swing.*;
 import java.awt.*;
 
 public class MainPanel extends JPanel {
-
     public static MainPanel instance = new MainPanel();
     public JToolBar tb = new JToolBar();
     public JButton bSpend = new JButton();
@@ -22,13 +22,13 @@ public class MainPanel extends JPanel {
 
     private MainPanel() {
 
-        GUIUtil.setImageIcon(bSpend, "home.png", "General");
-        GUIUtil.setImageIcon(bRecord, "record.png", "Make a Record");
+        GUIUtil.setImageIcon(bSpend, "home.png", "Overview");
+        GUIUtil.setImageIcon(bRecord, "record.png", "Note now");
         GUIUtil.setImageIcon(bCategory, "category2.png", "Categories");
         GUIUtil.setImageIcon(bReport, "report.png", "Monthly review");
         GUIUtil.setImageIcon(bConfig, "config.png", "Setting");
-        GUIUtil.setImageIcon(bBackup, "backup.png", "Backups");
-        GUIUtil.setImageIcon(bRecover, "restore.png", "Recovery");
+        GUIUtil.setImageIcon(bBackup, "backup.png", "Backup");
+        GUIUtil.setImageIcon(bRecover, "restore.png", "Recover");
 
         tb.add(bSpend);
         tb.add(bRecord);
@@ -44,6 +44,21 @@ public class MainPanel extends JPanel {
         setLayout(new BorderLayout());
         add(tb, BorderLayout.NORTH);
         add(workingPanel, BorderLayout.CENTER);
+
+        addListener();
+    }
+
+    private void addListener() {
+        ToolBarListener listener = new ToolBarListener();
+
+        bSpend.addActionListener(listener);
+        bRecord.addActionListener(listener);
+        bCategory.addActionListener(listener);
+        bReport.addActionListener(listener);
+        bConfig.addActionListener(listener);
+        bBackup.addActionListener(listener);
+        bRecover.addActionListener(listener);
+
     }
 
     public static void main(String[] args) {

@@ -1,12 +1,9 @@
 package gui.frame;
 
-import gui.listener.SpendPanelListener;
 import gui.panel.SpendPanel;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
  
 class CoinNoteFrame {
  
@@ -41,34 +38,6 @@ class CoinNoteFrame {
         f.setVisible(true);
 
         f.add(SpendPanel.instance, BorderLayout.CENTER);
-         
-        bSpend.addActionListener(new SpendPanelListener());
-
-        bRecord.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                 
-            }
-        });
-        bCategory.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                 
-            }
-        });
-        bConfig.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                 
-            }
-        });
-        bBackup.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                 
-            }
-        });
-        bRecover.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                 
-            }
-        });
  
     }
 }
